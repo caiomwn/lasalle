@@ -8,14 +8,15 @@ void main()
     setlocale(LC_ALL,"Portuguese_Brazil");
     /*
     GitHub: caiomwn
+
     O código a seguir cria uma calculadora, onde o usuário escolhe uma operação e depois insere os valores. O código verifica se o usuário
-    tentou dividir por zero pra evitar erros de execução.
+    tentou dividir por zero pra evitar erros de ex5ecução.
     */
 
-    int operacao;1
+    int operacao;
     float n1, n2, resultado;
 
-    printf("Iniciando a calculadora.\n");
+    printf("Iniciando a calculadora. Nao tente dividir por zero! Senao...\n");
 
             do
         {

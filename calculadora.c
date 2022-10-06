@@ -7,6 +7,8 @@ void main()
 {
     setlocale(LC_ALL,"Portuguese_Brazil");
     /*
+    Por Caio Virgílio Mallmann, La Salle, 2022
+    
     GitHub: caiomwn
 
     O código a seguir cria uma calculadora, onde o usuário escolhe uma operação e depois insere os valores. O código verifica se o usuário

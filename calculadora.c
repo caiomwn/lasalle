@@ -15,7 +15,8 @@ void main()
 
     int operacao;
     float n1, n2, resultado;
-
+    
+    printf("Por Caio Virgilio Mallmann, La Salle 2022\n");
     printf("Iniciando a calculadora. Nao tente dividir por zero! Senao...\n");
 
             do
